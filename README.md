@@ -3,3 +3,6 @@
 
 
 -keycodes: https://cle-rayan.github.io/javascript/keycodes
+
+-pass-image-blur:https://cle-rayan.github.io/javascript/pass-image-blur
+
