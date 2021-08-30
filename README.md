@@ -1,12 +1,12 @@
 # javascript 
-- bw-info:https://cle-rayan.github.io/javascript/bw-info/
+- bw-info:https://RayanAhmed20.github.io/javascript/bw-info/
 
 
-- keycodes: https://cle-rayan.github.io/javascript/keycodes
+- keycodes: https://RayanAhmed20.github.io/javascript/keycodes
 
-- pass-image-blur:https://cle-rayan.github.io/javascript/pass-image-blur
+- pass-image-blur:https://RayanAhmed20.github.io/javascript/pass-image-blur
 
 
-- hoverboard:https://cle-rayan.github.io/javascript/hoverboard
+- hoverboard:https://RayanAhmed20.github.io/javascript/hoverboard
 
-- drwaing-app:https://cle-rayan.github.io/javascript/drawing-app
+- drwaing-app:https://RayanAhmed20.github.io/javascript/drawing-app
