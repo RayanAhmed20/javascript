@@ -11,4 +11,4 @@
 
 - drwaing-app:https://RayanAhmed20.github.io/javascript/drawing-app
 
-- drwaing-app:https://RayanAhmed20.github.io/javascript/countdown
+- countdown:https://RayanAhmed20.github.io/javascript/countdown
